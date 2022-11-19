@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mariaerin
+- 👋 Hi, I’m @Mariasultana
 - 👀 I’m interested in art, programming 
 - 🌱 I’m currently learning about programming 
 - 💞️ I’m looking to collaborate on ...
